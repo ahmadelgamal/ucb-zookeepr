@@ -61,10 +61,10 @@ app.get('/api/animals/:id', (req, res) => {
   if (result) {
     res.json(result);
   } else {
-    res.send(404);
+    res.sendStatus(404);
   }
 });
 
 app.listen(PORT, () => {
-  console.log('API server now on port ${PORT}!');
+  console.log(`API server now on port ${PORT}!`);
 });
