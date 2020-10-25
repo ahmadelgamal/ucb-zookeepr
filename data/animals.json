@@ -144,6 +144,33 @@
         "hungry"
       ],
       "id": "14"
+    },
+    {
+      "name": "Rocky",
+      "species": "dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "Rocky",
+      "species": "dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "Samba",
+      "species": "Dog",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "17"
     }
   ]
 }
